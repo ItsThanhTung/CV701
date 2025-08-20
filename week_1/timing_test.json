@@ -1,30 +1,15 @@
 {
-    "image_folder": "fake_images_png_np",
-    "total_time": 0.6963553428649902,
-    "average_time": 6.963553428649903e-05
+    "image_folder": "fake_images_numpy/pickle",
+    "total_time": 7.348634243011475,
+    "average_time": 0.0007348634243011475
 }
 {
-    "image_folder": "fake_images_jpg_np",
-    "total_time": 0.5564107894897461,
-    "average_time": 5.564107894897461e-05
+    "image_folder": "fake_images_numpy/png",
+    "total_time": 7.635102987289429,
+    "average_time": 0.0007635102987289429
 }
 {
-    "image_folder": "fake_images_pickle_np",
-    "total_time": 7.342768430709839,
-    "average_time": 0.0007342768430709839
-}
-{
-    "image_folder": "fake_images_png_torch",
-    "total_time": 0.5985708236694336,
-    "average_time": 5.985708236694336e-05
-}
-{
-    "image_folder": "fake_images_jpg_torch",
-    "total_time": 0.5484848022460938,
-    "average_time": 5.4848480224609374e-05
-}
-{
-    "image_folder": "fake_images_pickle_torch",
-    "total_time": 6.567943811416626,
-    "average_time": 0.0006567943811416627
+    "image_folder": "fake_images_numpy/single_file_pickle",
+    "total_time": 1.2613677978515625,
+    "average_time": 1.2613677978515625
 }
